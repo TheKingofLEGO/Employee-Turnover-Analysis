@@ -125,17 +125,13 @@ This project aims to:
 ---
 
 ## 📊 Key Findings
-<table>
-<tr>
-<td>
+
 ### Executive Summary Highlights
 * **Total Employees**: 1,470
 * **Turnover Rate**: 16% overall attrition rate
 * **Average Age**: [37] years
 * **Total Salary Cost**: $6,503
 * **Headcount**: 237 employees in analyzed group
-</td>
-<td>
    
 ### Department Analysis
 * **Highest Attrition Departments**: Identified departments with elevated turnover rates
