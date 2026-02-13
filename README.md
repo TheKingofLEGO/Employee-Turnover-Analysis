@@ -7,8 +7,8 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![HR Analytics](https://img.shields.io/badge/HR_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
 
-[![GitHub Stars](https://img.shields.io/github/stars/TheKingofLEGO/Employee-Turnover-Analysis?style=social)](https://github.com/TheKingofLEGO/Employee-Turnover-Analysis/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/TheKingofLEGO/Employee-Turnover-Analysis?style=social)](https://github.com/TheKingofLEGO/Employee-Turnover-Analysis/network/members)
+![GitHub Stars](https://img.shields.io/github/stars/TheKingofLEGO/Employee-Turnover-Analysis?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/TheKingofLEGO/Employee-Turnover-Analysis?style=social)
 
 </div>
 
