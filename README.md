@@ -1,13 +1,50 @@
 # Employee Turnover Analysis Project
 
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HR Analytics](https://img.shields.io/badge/HR_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+![GitHub Stars](https://img.shields.io/github/stars/TheKingofLEGO/Employee-Turnover-Analysis?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/TheKingofLEGO/Employee-Turnover-Analysis?style=social)
+
+</div>
+
+---
+
+## 🎯 Project Highlights
+
+> **16% turnover rate identified** | **1,470 employees analyzed** | **3 interactive dashboards** | **Actionable insights for HR strategy**
+
 Welcome to the **Employee Turnover Analysis Project** repository! 🚀  
-This project demonstrates a comprehensive data analytics approach to understanding employee attrition patterns using SQL for data analysis and Power BI for interactive visualization. Designed as a portfolio project, it highlights industry best practices in HR analytics, business intelligence, and data storytelling.
+
+This project demonstrates a comprehensive data analytics approach to understanding employee attrition patterns using **SQL** for data analysis and **Power BI** for interactive visualization. Designed as a portfolio project, it highlights industry best practices in HR analytics, business intelligence, and data storytelling.
+
+---
+
+## 📑 Table of Contents
+
+- [Project Workflow](#-project-workflow)
+- [Project Overview](#-project-overview)
+- [Tools & Resources](#-tools--resources)
+- [Project Objectives](#-project-objectives)
+- [Key Findings](#-key-findings)
+- [Repository Structure](#-repository-structure)
+- [Getting Started](#-getting-started)
+- [Business Insights & Recommendations](#-business-insights--recommendations)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Learning Outcomes](#-learning-outcomes)
+- [Future Enhancements](#-future-enhancements)
+- [Connect With Me](#-connect-with-me)
+- [License](#-license)
+- [About Me](#-about-me)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
 ## 🏗️ Project Workflow
-
-![Project Workflow](docs/workflow_diagram.png)
 
 This project follows a structured analytical approach:
 
@@ -95,7 +132,7 @@ This project aims to:
 * **Average Age**: [37] years
 * **Total Salary Cost**: $6,503
 * **Headcount**: 237 employees in analyzed group
-
+   
 ### Department Analysis
 * **Highest Attrition Departments**: Identified departments with elevated turnover rates
 * **Job Role Patterns**: Specific roles showing higher vulnerability to attrition
