@@ -23,10 +23,6 @@ Welcome to the **Employee Turnover Analysis Project** repository! 🚀
 This project demonstrates a comprehensive data analytics approach to understanding employee attrition patterns using **SQL** for data analysis and **Power BI** for interactive visualization. Designed as a portfolio project, it highlights industry best practices in HR analytics, business intelligence, and data storytelling.
 
 ---
-Welcome to the **Employee Turnover Analysis Project** repository! 🚀  
-This project demonstrates a comprehensive data analytics approach to understanding employee attrition patterns using SQL for data analysis and Power BI for interactive visualization. Designed as a portfolio project, it highlights industry best practices in HR analytics, business intelligence, and data storytelling.
-
----
 
 ## 📑 Table of Contents
 
@@ -129,14 +125,18 @@ This project aims to:
 ---
 
 ## 📊 Key Findings
-
+<table>
+<tr>
+<td>
 ### Executive Summary Highlights
 * **Total Employees**: 1,470
 * **Turnover Rate**: 16% overall attrition rate
 * **Average Age**: [37] years
 * **Total Salary Cost**: $6,503
 * **Headcount**: 237 employees in analyzed group
-
+</td>
+<td>
+   
 ### Department Analysis
 * **Highest Attrition Departments**: Identified departments with elevated turnover rates
 * **Job Role Patterns**: Specific roles showing higher vulnerability to attrition
