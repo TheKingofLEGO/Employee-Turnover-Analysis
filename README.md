@@ -3,6 +3,23 @@
 Welcome to the **Employee Turnover Analysis Project** repository! 🚀  
 This project demonstrates a comprehensive data analytics approach to understanding employee attrition patterns using SQL for data analysis and Power BI for interactive visualization. Designed as a portfolio project, it highlights industry best practices in HR analytics, business intelligence, and data storytelling.
 
+📑 Table of Contents
+
+Project Workflow
+Project Overview
+Tools & Resources
+Project Objectives
+Key Findings
+Repository Structure
+Getting Started
+Business Insights & Recommendations
+Skills Demonstrated
+Learning Outcomes
+Future Enhancements
+Connect With Me
+License
+About Me
+Acknowledgments
 ---
 
 ## 🏗️ Project Workflow
