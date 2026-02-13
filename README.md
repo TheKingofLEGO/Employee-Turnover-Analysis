@@ -1,5 +1,28 @@
 # Employee Turnover Analysis Project
 
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HR Analytics](https://img.shields.io/badge/HR_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+[![GitHub Stars](https://img.shields.io/github/stars/TheKingofLEGO/Employee-Turnover-Analysis?style=social)](https://github.com/TheKingofLEGO/Employee-Turnover-Analysis/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/TheKingofLEGO/Employee-Turnover-Analysis?style=social)](https://github.com/TheKingofLEGO/Employee-Turnover-Analysis/network/members)
+
+</div>
+
+---
+
+## 🎯 Project Highlights
+
+> **16% turnover rate identified** | **1,470 employees analyzed** | **3 interactive dashboards** | **Actionable insights for HR strategy**
+
+Welcome to the **Employee Turnover Analysis Project** repository! 🚀  
+
+This project demonstrates a comprehensive data analytics approach to understanding employee attrition patterns using **SQL** for data analysis and **Power BI** for interactive visualization. Designed as a portfolio project, it highlights industry best practices in HR analytics, business intelligence, and data storytelling.
+
+---
 Welcome to the **Employee Turnover Analysis Project** repository! 🚀  
 This project demonstrates a comprehensive data analytics approach to understanding employee attrition patterns using SQL for data analysis and Power BI for interactive visualization. Designed as a portfolio project, it highlights industry best practices in HR analytics, business intelligence, and data storytelling.
 
