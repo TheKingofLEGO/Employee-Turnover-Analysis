@@ -7,8 +7,6 @@ This project demonstrates a comprehensive data analytics approach to understandi
 
 ## 🏗️ Project Workflow
 
-![Project Workflow](docs/workflow_diagram.png)
-
 This project follows a structured analytical approach:
 
 1. **Data Collection**: Imported employee HR dataset from Kaggle
